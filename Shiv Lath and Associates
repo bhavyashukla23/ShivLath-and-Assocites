@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="EN">
+    <head>
+      <title> This is html form </title>
+    </head>
+
+    <body>
+      <header>
+       <tr>
+            <th> Home </th>
+            <th> What we do</th>
+            <th> Clients </th>
+            <th> Accomplishments </th>
+            <th> Testimonials (if asked to)</th>
+            <th> Contact Us </th>
+         </tr>
+      </header>      
+      <!-- img src="bannerpath/filename" --> 
+        <h1> <b> Shiv Lath & Associates </b> </h1>
+        <h2> <b> <i> Charted Accountant Est. 200</i> </b> </h2>
+      <!-- img src="bannerpath/filename" -->
+           <h3> <b> <u> What We Do </u> </b> </h3>
+         <p> <i> We are a sole proprietorship firm of Charted Accountants established in 2009. With 10 Years of experience with diverse clientele across various sectors in the industry, we provide industry leading services. We assure client satisfaction by the completely transparent working process. All this is backed by our specialization in Accounting, Auditing & Direct/ Indirect Taxation Matters and expertise in GST Act 2017 & Income Tax Act, 1961.
+         </i> 
+         <ul>
+           <li> <b> Concurrent, Statutory Bank Audits, Information System Audits & Internal Audits  </b> </li>
+           <li> <b> GST Planning, Registration, Consultation services, filing of returns & other GST related work</b> </li>
+           <li> Income tax consultancy & return filing </li>
+           <li>TDS Return filing </li>
+           <li> <b> Accounting & Auditing services for Firms </b></li>
+           <li> Assisting in financing Project capital</li>
+           <li> Representing clients before Income tax & GST Authorities for assessment</li>
+           <li> Tax Audits Under Income Tax Act</li>
+           <li>Obtaining Multiple registrations under Companies Act. </li>
+           <li> Industrial Department, pollution department, mining department approvals </li>
+           <li> Trademarks, ISO related work</li>
+         </ul>  
+         </p>
+         <h3><b> Contact Us </b></h3>
+         <p> Shiv Kumar Lath 
+             10 Years of Experience
+             FCA, B.Com, DISA, CCA, FAFD
+         </p>
+
+      <footer>
+         <h4> Address </h4>
+         <p> H.O. : H.No.2, The Una Co-operative Housing Society, Basant Vihar, Near Rakkar Colony, Una (H.P.) 2nd Office : Opp. District, Courts Una, (H.P.) </p>
+         <a href="https://www.google.com/maps/place/SHIV+LATH+%26+ASSOCIATES/@31.4668922,76.2595872,17z/data=!4m5!3m4!1s0x391adb2a233a9eef:0x614037e69fd649be!8m2!3d31.4668876!4d76.2617759" target=" blank "> Click </a>   
+         <h4> Tel: </h4>
+         <p> +91-8091244037, 9816624037, 01975-227037  </p>  
+         <p>
+         <b> Email: </b><a href="mailto:shiv27@gmail.com" > shiv27@gmail.com ,</a>
+         <a href="mailto:sl.associates27@gmail.com" > sl.associates27@gmail.com </a>
+         </p>
+      </footer>       
+    </body>
+</html>    
